@@ -1,0 +1,22 @@
+*{background-color: aquamarine;
+     }
+
+.Photo{width: 200px;
+       height: 200px;
+       margin-left: 40%;
+       margin-bottom: 50px;}
+
+.Name{background-color: rgb(223, 189, 149);
+      color: darkslategray;
+      width: 150px;
+      height: auto;
+      margin-left: 42%;
+      text-align: center;
+      font-weight: bold;
+      margin-bottom: 50px;}
+
+.adress{background-color: firebrick;
+        color: gold;
+        margin-left: 38%;
+        width: 250px;
+        font-weight: bold;}
